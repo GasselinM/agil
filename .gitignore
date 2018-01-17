@@ -3,4 +3,5 @@ venv/
 .pyo
 __pycache__
 .sh
-.txtdb.sqlite3
+.txt
+db.sqlite3
